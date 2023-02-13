@@ -28,4 +28,12 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/techcoder) 
 
+<div align=center>
+<p align=center><img align=center src="https://raw.githubusercontent.com/liyasthomas/templates/master/assets/logo.gif" alt="unicorn" width="400">
+</p>
+<p align=center>Happy Coding</p>
+  
+<p align=center><img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=deep5050.programming-jokes" alt="Visitors">  </p>
+
+</div>
   
