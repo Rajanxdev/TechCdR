@@ -22,17 +22,16 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+<!-- ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 <div align=center>
   
  <p align=center>
-  <img src=https://github.com/deep5050/programming-memes/raw/main/memes/1/1165.png width=400px>
   <img src=https://github.com/deep5050/programming-memes/raw/main/memes/1/1517.png width=400px>
   </p>
   
-</div>
+</div> -->
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/techcoder) 
