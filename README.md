@@ -4,7 +4,7 @@
 <br>hello programmers <br>I'm Tech Coder I am a student of software engineering
 
 
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
 
 ## 🌐 Socials Link:
