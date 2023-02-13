@@ -1,10 +1,9 @@
-### Hi there 👋
+![Header](./github-header-image.png)
 
 # 💫 About Me:
 <br>hello programmers <br>I'm Tech Coder I am a student of software engineering
 
 
-![Header](./github-header-image.png)
 
 
 ## 🌐 Socials Link:
